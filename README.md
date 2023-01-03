@@ -19,7 +19,7 @@ and you can ask them if they’re available to practice. Easy as pie.
 
 So, dancers, or anyone who’s interested in dancing but required partner(s), just use Dancing With Neighbors app, and create a community of dancers!
 
-#### For this project, I am using:
+For this project, I am using:
   -Front End:
     -React
     -React-DOM

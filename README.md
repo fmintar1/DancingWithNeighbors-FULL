@@ -1,4 +1,4 @@
-##Passion Project: Dancing With Neighbors
+## Passion Project: Dancing With Neighbors
 
 One of my hobbies in my spare time is to dance, mainly Salsa & Bachata.
 However, the issue with this style of dance is, it requires partner.
@@ -19,6 +19,6 @@ and you can ask them if they’re available to practice. Easy as pie.
 
 So, dancers, or anyone who’s interested in dancing but required partner(s), just use Dancing With Neighbors app, and create a community of dancers!
 
-##For the front end, proceed to [this link](https://github.com/fmintar1/DancingWithNeighbors-FrontEnd)
+## For the front end, proceed to [this link](https://github.com/fmintar1/DancingWithNeighbors-FrontEnd)
 
-##For the back end, proceed to [this link](https://github.com/fmintar1/DancingWithNeighbors-BackEnd)
+## For the back end, proceed to [this link](https://github.com/fmintar1/DancingWithNeighbors-BackEnd)
